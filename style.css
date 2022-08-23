@@ -1,0 +1,37 @@
+body{
+    background-image: url('https://exoplanets.nasa.gov/internal_resources/2069');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#container {
+    
+    background-color: antiquewhite;
+    width:30%;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+#guess{
+    padding: 10px;
+    width:40%;
+}
+
+#btn{
+background-color: aquamarine;
+border: none;
+font-size: 15px;
+margin-top: 20x;
+padding: 20px;
+border-radius: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+
+}
