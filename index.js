@@ -50,7 +50,7 @@ function play(){
             imageWidth: 400,
             imageHeight: 200,
             imageAlt: 'Custom image',
-          });
+        });
     }
     }
 
